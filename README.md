@@ -11,6 +11,7 @@ This project predict the price of the house based on the given varibales :
 * Location of the house (Latitude, Longitude)
 
 ## Requirments
+``pip install -r requirements.txt``
 * Jupyter notebook
 * Python
 * Pandas

@@ -19,6 +19,7 @@ This project predict the price of the house based on the given varibales :
 * Scikit learn
 * Matplotlib
 * Seaborn
+
 ## Process
 1. Loading the data
 2. Descriptive Statistics
@@ -26,3 +27,9 @@ This project predict the price of the house based on the given varibales :
 4. Model training
 5. Hyper parameter tuning the best models
 6. Conclusion
+
+## Created by:
+Deepak Sirohiwal 
+* Github: https://github.com/deepaksirohiwal
+* Linkedin : https://www.linkedin.com/in/deepak-sirohiwal-22330613a/
+* Twitter: https://twitter.com/deepaksirohiwal
